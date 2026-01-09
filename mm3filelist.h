@@ -8,6 +8,7 @@ const char* filenames[] =
 	"award.bin",
 	"tavern.bin",
 	"quest.bin",
+	"corak.bin",
 	"copy.bin",
 	"bat.brd",
 	"fecp.brd",
